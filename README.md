@@ -1,13 +1,14 @@
-Hi there 👋
+## Hi there 👋
 
 📫 How to reach me: miltonp6h6p@gmail.com or a68014@ualg.pt
 
 
 <div align="center">
   <a href="https://github.com/Miltonp6h6p">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miltonp6h6p&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miltonp6h6p&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Miltonp6h6p&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miltonp6h6p&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
+   
 <!-- 
 Icons
 <div style="display: inline_block"><br>
