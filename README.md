@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as application developer at Atos. 
 📫 How to reach me: miltonp6h6p@gmail.com or a68014@ualg.pt
-
+<br> 
 
 <div align="center">
   <a href="https://github.com/Miltonp6h6p">
